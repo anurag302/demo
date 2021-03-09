@@ -1,2 +1,2 @@
-# demo
+#odoo
 odoo project
