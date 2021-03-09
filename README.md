@@ -1,2 +1,2 @@
 # demo
-rest Api
+odoo project
